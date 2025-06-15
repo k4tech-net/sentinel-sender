@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+.vs/
+x64/
+sentinel-sender/x64/
+vcpkg_installed/
